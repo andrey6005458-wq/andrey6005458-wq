@@ -1,16 +1,54 @@
-## Hi there 👋
+# Привет, я Андрей! 👋
 
-<!--
-**andrey6005458-wq/andrey6005458-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать в мой GitHub-профиль.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Обо мне
+
+Я начинающий **Data Scientist** и **ML-инженер**.  
+Мой путь в IT начался с цифровизации строительства — теперь я учусь превращать данные в полезные модели и инсайты.
+
+- 🔭 Сейчас я прохожу курс **«Основы Python»** в Яндекс Практикуме.
+- 🌱 Углубляюсь в **Pandas**, **NumPy**, **SQL** и **математику для ML**.
+- 🎯 Моя цель — стать востребованным специалистом в области AI и Data Science.
+- 🏗️ В прошлом — строительная сфера, что помогает мне видеть задачи с практической стороны.
+
+---
+
+## 🛠️ Стек технологий
+
+- **Python** — активно учусь и применяю
+- **Pandas / NumPy** — в процессе изучения
+- **SQL** — на начальном этапе
+- **Git** — работаю с репозиториями
+- **VS Code** — основная среда разработки
+
+---
+
+## 📚 Сейчас изучаю
+
+- Математику для ML (линейная алгебра, статистика)
+- Machine Learning (scikit-learn)
+- Deep Learning (PyTorch)
+
+---
+
+## 📁 Мои проекты
+
+| Название | Описание |
+|----------|----------|
+| [AI_Learning_Mac](https://github.com/andrey6005458-wq/AI_Learning_Mac) | Мои учебные задачи по Python и ML |
+| ... | скоро добавлю новые проекты |
+
+---
+
+## 📫 Как связаться
+
+- 📧 Email: andrey6005458@mail.ru
+- 🌍 Telegram: [@...]() — добавь сюда свой Telegram
+- 🔗 LinkedIn: [добавь ссылку, когда будет]
+
+---
+
+> *«Постепенно, но уверенно — от основ к настоящей работе с данными и AI.»*
