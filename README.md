@@ -46,7 +46,7 @@
 ## 📫 Как связаться
 
 - Email: andrey6005458@mail.ru
-- Telegram: @andrey_kvich
+- Telegram: https://t.me/andrey_kvich
 
 
 
